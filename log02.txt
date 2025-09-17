@@ -18,3 +18,15 @@ SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is .\log02.txt
 ]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
+PS>git commit -m "20250917-dp1"
+[main 6b70e04] 20250917-dp1
+ 5 files changed, 69 insertions(+)
+ create mode 100644 celok.md
+ create mode 100644 cv.md
+ create mode 100644 konyvek.md
+ create mode 100644 log02.txt
+ create mode 100644 projekt.md
+]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
